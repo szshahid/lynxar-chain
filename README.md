@@ -11,6 +11,6 @@ A custom blockchain implementation with LYNX token support.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/lynxar-chain.git
+https://github.com/szshahid/lynxar-chain.git
 cd lynxar-chain
 pip install -r requirements.txt
